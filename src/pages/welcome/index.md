@@ -1,5 +1,5 @@
 ---
-templateKey: about-page
+templateKey: welcome
 title: Welcome
 ---
 MPSK teaches the Traditional Martial Art of Tang Soo Do and the ABC Combat System (developed by Chris Crudelli), Ladies Kickboxing and Boxing Circuits.  
