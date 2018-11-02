@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: mattpaulwilliamson/mpsk
 
 media_folder: static/img
 public_folder: /img
@@ -8,10 +8,6 @@ public_folder: /img
 accept_roles: 
     - admin
     - editor
-
-backend:
-  name: github
-  repo: mattpaulwilliamson/mpsk
 
 collections:
   - name: "blog"
