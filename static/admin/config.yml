@@ -5,6 +5,14 @@ backend:
 media_folder: static/img
 public_folder: /img
 
+accept_roles: 
+    - admin
+    - editor
+
+backend:
+  name: github
+  repo: mattpaulwilliamson/mpsk
+
 collections:
   - name: "blog"
     label: "Blog"
