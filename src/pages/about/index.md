@@ -1,19 +1,25 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Welcome
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+MPSK teaches the Traditional Martial Art of Tang Soo Do and the ABC Combat System (developed by Chris Crudelli), Ladies Kickboxing and Boxing Circuits.  
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+We believe in teaching the highest standards of Martial Arts at a reasonable cost to anyone who wishes to join us. We have a modern full time centre.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+You will find the following benefits when you join MPSK:
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Self defence - Improve Flexibility - Meet New Friends - Improve Fitness
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Gradings (Belts) and Seminars - Competitions - Social Evenings
+
+If you need any further information please do not hesitate to contact us using the online form or feel free to visit us at any of our locations in and around the Peterborough area.
+
+We all look forward to welcoming you to our club.
+
+Thank you for taking the time to visit the MPSK site.
+
+### MASTER IAN PARKER
+
+### 
+
+###
