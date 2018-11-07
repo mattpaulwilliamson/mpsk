@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: mattpaulwilliamson/mpsk
+  branch: master
 
 media_folder: static/img
 public_folder: /img
