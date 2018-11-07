@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { TimetablePageTemplate } from '../../templates/Timetable'
+import { TimetablePageTemplate } from '../../templates/timetable'
 
 const TimetablePagePreview = ({ entry, widgetFor }) => (
   <TimetablePageTemplate
