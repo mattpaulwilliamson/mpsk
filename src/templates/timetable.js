@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const TimetablePageTemplate = ({ title, content, contentComponent }) => {
+export const TimetablePageTemplate = ({ title, content, image, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -12,10 +12,15 @@ export const TimetablePageTemplate = ({ title, content, contentComponent }) => {
       <div className="container">
         <div className="columns">
           <div className="column is-12">
+          
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light has-text-white-bis">
                 {title}
               </h2>
               <PageContent className="content" content={content} />
+              <img
+                style={{ borderRadius: '5px' }}
+                src={image}
+              />
             </div>
         </div>
       </div>
@@ -25,6 +30,7 @@ export const TimetablePageTemplate = ({ title, content, contentComponent }) => {
 
 TimetablePageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
+  image: PropTypes.string,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
 }
@@ -37,6 +43,7 @@ const TimetablePage = ({ data }) => {
       <TimetablePageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
+        image={post.frontmatter.image}
         content={post.html}
       />
     </Layout>
@@ -55,6 +62,7 @@ export const timetablePageQuery = graphql`
       html
       frontmatter {
         title
+        image
       }
     }
   }

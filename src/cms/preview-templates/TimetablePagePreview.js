@@ -5,6 +5,7 @@ import { TimetablePageTemplate } from '../../templates/Timetable'
 const TimetablePagePreview = ({ entry, widgetFor }) => (
   <TimetablePageTemplate
     title={entry.getIn(['data', 'title'])}
+    image={entry.getIn(['data', 'image'])}
     content={widgetFor('body')}
   />
 )
